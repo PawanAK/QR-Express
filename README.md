@@ -1,6 +1,6 @@
 <!---
 Note: The logos used in this example are placeholders.
-Please replace them with valid URLs to the respective images.
+Please  replace them with valid URLs to the respective images.
 -->
 
 # QR Express 📲
