@@ -92,3 +92,22 @@ img {
     padding: 0.5rem;
   }
 }
+
+.input {
+  padding: 0.8rem 1rem;
+  display: inline-block;
+  width: 100%;
+  outline: none;
+  border: none;
+  font-size: 1.2rem;
+  background-color: #f0f0f0;
+  color: #333;
+  border-radius: 0.5rem;
+  text-align: center; /* Added property for center alignment */
+  font-family: "Roboto", sans-serif;
+}
+
+input::placeholder {
+  color: #999;
+  text-align: center; /* Added property for center alignment */
+}
